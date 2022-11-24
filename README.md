@@ -125,6 +125,8 @@ np.mean(predict(res.x,X)==y)
 
 ![output](5.png)
 
+![out](10.png)
+
 ![output](6.png)
 
 ![output](7.png)
